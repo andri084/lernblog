@@ -1,13 +1,6 @@
 +++
-title = "About me"
+title = "Über Mich"
 draft = false
-description = ""
-image = ""
+footnotes = ""
 +++
-![](/img/default-author.jpg)
-
-## My Name
-
-mail@example.org
-
-Here should be some info about me...
+Mein Name ist **Andri Krebs**, ich bin **18 Jahre** alt und komme aus **Wabern**.
