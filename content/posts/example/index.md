@@ -1,11 +1,11 @@
 +++
-title = "First Post"
-date = "2022-08-23"
+title = "Test Eintrag"
+date = "2021-10-31"
 draft = false
 pinned = false
 tags = ["Example", "Lernblog"]
-image = "https://derivates.kicker.de/image/fetch/w_1200,h_900,c_fill,g_auto,q_auto:best/http://mediadb.kicker.de/news/1000/1020/1100/9000/artikel/861479/imago25438230h-1475153777_zoom43_crop_800x600_800x600+377+196.jpg"
-description = "In diesem Artikel möchte ich sagen, dass ich Fussball mag."
+image = ""
+description = ""
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
