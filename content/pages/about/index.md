@@ -1,7 +1,7 @@
 +++
 title = "Über Mich"
 draft = false
-image = "https://img.welt.de/img/vermischtes/weltgeschehen/mobile102120224/1561355397-ci16x9-w1200/jw-Grizzly-DW-Bayern-Perugia-jpg.jpg"
+image = "rapper-haftbefehl.jpeg"
 description = "Cooler Typ"
 footnotes = ""
 +++
