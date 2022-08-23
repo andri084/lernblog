@@ -1,7 +1,7 @@
 +++
 title = "Über Mich"
 draft = false
-image = "rapper-haftbefehl.jpeg"
+image = "dober.jpeg"
 description = "Cooler Typ"
 footnotes = ""
 +++
