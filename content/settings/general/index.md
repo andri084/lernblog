@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Andri Krebs"
-description = "Der legendäre Blog von Andri Krebs"
+title = "Andri"
+description = "Der legendäre Blog von Andri"
 footerLeft = "Powered by ❤️ and [lernblog.org](https://www.lernblog.org)"
 footerRight = ""
 +++
