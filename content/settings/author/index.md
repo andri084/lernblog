@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Andri Krebs"
-image = ""
+image = "/media/img_9403.jpg"
 email = ""
 +++
