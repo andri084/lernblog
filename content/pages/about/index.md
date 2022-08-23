@@ -7,8 +7,5 @@ footnotes = ""
 +++
 Mein Name ist **Andri**, ich bin **18 Jahre** alt und komme aus **Wabern**.
 
-
-
-Socials:
-
+Socials: \
 [Instagramm](https://www.instagram.com/andrinullachtvier/)
