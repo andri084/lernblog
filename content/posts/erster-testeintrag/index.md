@@ -1,9 +1,10 @@
 +++
-title = "Erster Testeintrag"
+title = "Blumen-Shop"
 date = "2022-08-23"
 draft = false
 pinned = false
-image = "https://derivates.kicker.de/image/fetch/w_1200,h_900,c_fill,g_auto,q_auto:best/http://mediadb.kicker.de/news/1000/1020/1100/9000/artikel/861479/imago25438230h-1475153777_zoom43_crop_800x600_800x600+377+196.jpg"
-description = "Fussball"
+tags = []
+image = ""
+description = "Blumenshop"
 +++
-In diesem Eintrag will ich in Worten ausdrücken, dass ich Fussball mag.
+In der ersten Lektion haben wir einen Online-Blumenshop auf Carrd.co erstellt. Wir haben zuerst eine Skizze erstellt wie der Shop aussehen sollte und danach die Webseite versucht nach dieser Skizze zu gestallten. Jedoch hat dies nicht so gut funktioniert und wir konnten unsere Skizze überhaupt nicht verwirklichen. Am ende haben wir es nicht mal geschafft die Webseite Online zu stellen, da gewisse Elemente (wir haben die Elemente nicht einmal gefunden) nicht fertig waren.
