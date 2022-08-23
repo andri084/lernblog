@@ -4,7 +4,7 @@ date = "2022-08-23"
 draft = false
 pinned = false
 tags = []
-image = "https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2017/08/1-10.png?fit=845%2C503&ssl=1"
+image = "1-10.webp"
 description = "Erster Blogeintrag über das Erstellen eines Online Blumenshopps"
 +++
 In der ersten Lektion sollten wir einen Online-Blumenshop auf Carrd.co erstellen. 
