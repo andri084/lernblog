@@ -1,12 +1,13 @@
 +++
-title = "Wie vermarkte ich mein Produkt?"
-date = "2022-09-27"
+title = "Wie vermarkte ich mein Produkt am besten?"
+date = "2022-09-20"
 draft = false
 pinned = false
 image = "download111.jpeg"
-description = ""
+description = "In diesem Blogeintrag habe ich mich mit dem Thema befasst, wie man sein(e) Produkte(e) am besten vermarktet. Dabei habe ich die Markt- und Kundenanalyse zusammengefasst."
+footnotes = "﻿Zusammenarbeit von Luciano und Andri."
 +++
-Im Moment befassen wir uns mit der Vermarktung von unserem Produkt. Deswegen habe ich als Thema für diesen Blogeintrag die Markt- und Kundenanalyse ausgewählt und stelle euch das hier vor.
+Im Moment befassen wir uns mit der Vermarktung von unserem Produkt. Deswegen habe ich als Thema für diesen Blogeintrag die Markt- und Kundenanalyse ausgewählt und stelle euch das hier vor. 
 
 Der Markt hängt vom Produkt oder der Dienstleistung ab die man anbietet. Am Anfang sollte man seinen Markt möglich breit machen und danach immer detaillierter werden.
 
@@ -31,8 +32,6 @@ Man muss sich Gedanken machen an welche Kundengruppen man sein Produkt richten w
 Man kann auch nach Geographie segmentieren. Da wird häufig nach Sprache unterschieden.
 
 Ein weiteres Kriterium für die Marktsegmentierung ist der Vertriebskanal. Das ist der Weg wie das Produkt zum Kunden gelangen soll.
-
-
 
 Dann kann man weiter machen mit der Marktanalyse wo es um die Merkmale der potentiellen Kunden geht. Mögliche Fragen sind das Alter oder das Einkommen. Diese Fragen kann man mit Statistiken beantworten.
 
