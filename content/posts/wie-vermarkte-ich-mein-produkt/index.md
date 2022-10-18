@@ -3,6 +3,8 @@ title = "Wie vermarkte ich mein Produkt?"
 date = "2022-09-27"
 draft = false
 pinned = false
+image = "download111.jpeg"
+description = ""
 +++
 Im Moment befassen wir uns mit der Vermarktung von unserem Produkt. Deswegen habe ich als Thema für diesen Blogeintrag die Markt- und Kundenanalyse ausgewählt und stelle euch das hier vor.
 
