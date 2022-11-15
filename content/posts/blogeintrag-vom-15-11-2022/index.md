@@ -1,5 +1,5 @@
 +++
-title = "Blogeintrag vom 15. September"
+title = "Blogeintrag vom 15. November"
 date = "2022-11-15"
 draft = false
 pinned = false
