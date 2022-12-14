@@ -4,7 +4,7 @@ date = "2022-11-08"
 draft = false
 pinned = false
 image = "getbb.jpeg"
-description = "In diesem Blogeintrag erfährt ihr, welche Erkenntnisse wir in einem Gespräch mit einem Mediamatiker gewinnen konnen."
+description = "In diesem Blogeintrag erfährt ihr, welche Erkenntnisse wir in einem Gespräch mit einem Mediamatiker gewinnen konnten."
 +++
 Für unser Projekt wollen wir an professionelle Informationen gelangen. Für an solche Informationen zu gelangen haben wir uns letzte Woche mit einem Kollegen getroffen, der eine Ausbildung zum Mediamatiker macht. Wir sind mit ihm in die Oberstufe gegangen und kennen ihn von dort. Er selbst hat ein kleines Business, wo er verschiedene Dinge designt und diese über Instagram vermarktet, also passend zu unserem Projekt.
 
