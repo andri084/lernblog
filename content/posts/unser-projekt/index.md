@@ -5,19 +5,13 @@ draft = false
 pinned = false
 image = "professionelle-webseite.jpeg"
 +++
-
-
 ![Quelle: https://www.google.com/search?q=projekt&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSmf_ny_b7AhWwMewKHQ4ABnIQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=H-aVCT2cwzB1QM](https://luciano084.netlify.app/unser-projekt/erstes_projekt.jpg)
-
-Quelle: https://www.google.com/search?q=projekt&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSmf_ny_b7AhWwMewKHQ4ABnIQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=H-aVCT2cwzB1QM
 
 Wir haben uns dafür entschieden unseren Kunden ein Webdesign zu verkaufen. Unser Ziel ist es unseren Kunden nicht nur eine funktionstüchtige Webseite zu designen, sondern auch ein Design zu erstellen das optisch ansprechend und einzigartig ist. Wird es vom Kunden gewünscht, dann bieten wir auch Wartungsarbeiten für die Webseiten an.
 
 W﻿ir haben “3084 Designs AG” als Firmennamen gewählt, weil dort unser Firmensitz ist.
 
 ![Quelle: https://www.google.com/search?q=3084&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjm8unpzfb7AhUPHewKHdGcAUIQ_AUoA3oECAIQBQ&biw=1536&bih=714&dpr=1.25#imgrc=15-KZcOmsV8uAM](https://luciano084.netlify.app/unser-projekt/plz-3084-schweiz.png)
-
-Quelle: https://www.google.com/search?q=3084&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjm8unpzfb7AhUPHewKHdGcAUIQ_AUoA3oECAIQBQ&biw=1536&bih=714&dpr=1.25#imgrc=15-KZcOmsV8uAM
 
 Der Vertrieb unserer Webseitendesigns planen wir über unsere eigene Webseite. Unsere Kundengruppe sind jene die entweder das Know-how nicht haben oder nicht interessiert sind ihre Webseite zu selbst zu designen. Wir haben also ein sehr breites Kundensegment.
 
@@ -26,8 +20,6 @@ Um unser Produkt ans Volk zu bringen, machen wir Werbung mittels Social Media da
 D﻿iese Information und viele mehr haben wir mithilfe von Umfragen in der Stadt Bern und in Wabern erlangt.
 
 ![Quelle: https://www.google.com/search?q=social+media&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjG7NurzPb7AhWPqaQKHT7YBI8Q_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=JWEzxfnsk3d9PM](https://luciano084.netlify.app/unser-projekt/social-media-icons-wurfel-foto-istock-pressureua.jpg)
-
-Quelle: https://www.google.com/search?q=social+media&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjG7NurzPb7AhWPqaQKHT7YBI8Q_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=JWEzxfnsk3d9PM
 
 Unserer Meinung nach zeichnet uns aus, dass wir kreative und einzigartige Designs für unsere Kunden erstellen. Außerdem können wir unseren Kunden ein persönliches Kundenverhältnis anbieten.
 
