@@ -4,6 +4,7 @@ date = "2022-08-30"
 draft = false
 pinned = false
 image = "professionelle-webseite.jpeg"
+description = "Dieser Blogeintrag dient als Zusammenfassung unseres Projektes."
 +++
 ![Quelle: https://www.google.com/search?q=projekt&rlz=1C1CSMH_de\_\_995\_\_995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSmf_ny_b7AhWwMewKHQ4ABnIQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=H-aVCT2cwzB1QM](https://luciano084.netlify.app/unser-projekt/erstes_projekt.jpg)
 
