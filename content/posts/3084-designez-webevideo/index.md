@@ -3,6 +3,7 @@ title = "3084 Designez Webevideo"
 date = "2023-05-09"
 draft = false
 pinned = false
+image = "youtube-infobox.webp"
 description = "In diesem Blogeintrag stellen wir Ihnen unser Projekt vor."
 +++
 3﻿084 Designez!
